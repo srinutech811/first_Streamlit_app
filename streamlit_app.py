@@ -1,5 +1,5 @@
 import streamlit
-import panas
+import pandas
 
 streamlit.title('My parenet New Healthy Dinner')
 streamlit.header('Breakfast Menu')
